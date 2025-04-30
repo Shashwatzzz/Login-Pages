@@ -1,0 +1,98 @@
+body {
+    background-image: url(netflix-background-image-25.jpg);
+    font-family: Arial;
+
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 60px;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.719);
+    width: 315px;
+    height: 450px;
+    padding-top: 30px;
+    padding-left: 40px;
+    position: absolute;
+    left: 460px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.input {
+    background-color: rgba(37, 37, 37, 0.568);
+    color: white;
+    border-width: 1px;
+    border-color: white;
+    height: 40px;
+    width: 250px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#input1 {
+    margin-bottom: 5px;
+}
+
+#input2 {
+    margin-top: 5px;
+
+}
+
+.btn {
+    height: 35px;
+    width: 270px;
+}
+
+#btn1 {
+    background-color: red;
+    color: white;
+    border-width: 0px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#btn2 {
+    background-color: rgba(128, 128, 128, 0.699);
+    color: white;
+    font-weight: bold;
+}
+
+h3 {
+    color: white;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-left: 125px;
+}
+
+#a1 {
+    color: white;
+    font-size: 15px;
+    margin-left: 75px;
+    margin-top: 20px;
+
+}
+
+#p1 {
+    color: white;
+    display: inline-block;
+}
+
+#p2 {
+    color: white;
+}
+
+#a2 {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}

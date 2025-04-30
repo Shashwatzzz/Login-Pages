@@ -1,0 +1,79 @@
+body {
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+.container {
+    font-family: cursive;
+    margin-top: 50px;
+    background-color: black;
+    height: 700px;
+    width: 750px;
+    position: absolute;
+    left: 300px;
+    border-radius: 20px;
+}
+
+#h1 {
+    color: white;
+    margin-left: 225px;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    border-color: rgba(255, 255, 255, 0.479);
+    border-width: 1px;
+    width: 250px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 10px;
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 225px;
+}
+
+.ruler {
+    background-color: white;
+}
+
+.para {
+    color: white;
+    margin-left: 225px;
+    font-weight: bold;
+    font-size: 13px;
+
+}
+
+.input {
+    margin-left: 225px;
+    color: white;
+    background-color: black;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.479);
+    width: 250px;
+    height: 30px;
+    border-radius: 3px;
+}
+
+#b5 {
+    background: rgb(57, 194, 57);
+    color: black;
+    margin-left: 225px;
+    width: 255px;
+    height: 40px;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+#a1 {
+    margin-left: 275px;
+
+}
+
+
+#a1,
+#a2 {
+    color: white;
+}
